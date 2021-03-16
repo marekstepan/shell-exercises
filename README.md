@@ -1,1 +1,1 @@
-# This repository contains my simple shell algorithmic exercises.
+This repository contains my simple shell algorithmic exercises.
